@@ -5,8 +5,8 @@ import { fileURLToPath } from 'url'
 
 /*========= GLOBAL APIKEY =========*/
 // ISI APIKEY KALIAN DI BAGIAN 'ENTER YOUR APIKEY' SIMBOL JANGAN DI HAPUS
-global.btc = 'Enter your apikey' // apikey Botchax
-global.lann = 'Enter your apikey' // apikey Beta
+global.btc = 'U8HPVtIJ' // apikey Botchax
+global.lann = 'nL2BoG36' // apikey Beta
 
 
 
@@ -18,8 +18,8 @@ global.APIs = {
 } 
 
 global.APIKeys = {
-  'https://api.betabotz.eu.org': 'Enter your apikey',
-  'https://api.botcahx.eu.org': 'Enter your apikey'
+  'https://api.betabotz.eu.org': 'nL2BoG36',
+  'https://api.botcahx.eu.org': 'U8HPVtIJ'
 }
 
 
@@ -27,44 +27,44 @@ global.APIKeys = {
 /*============ NOMOR ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.info = {
-	nomorbot: '62882257504889',
-	nomorown: '6281283516246',
-	namebot: 'Assisten YuLa',
-	nameown: 'Maximus Store',
-	channel: '120363241570452835@newsletter',
-	namechannel: 'XM4ZE | Whatsapp Bots'
+	nomorbot: '6289501954399',
+	nomorown: '6285603256172',
+	namebot: 'ＢｅＴａｂｏｔ Ｘ Ｍｄ',
+	nameown: 'sᴇᴘᴘ x ᴍᴅ',
+	channel: '-',
+	namechannel: '-'
 }
 
 
 
 /*============ OWNER ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.owner = ['6281283516246'] // Ganti pakai nomor kalian
-global.xmaze = ['6281283516246'] // Ganti pakai nomor kalian
+global.owner = ['6285603256172'] // Ganti pakai nomor kalian
+global.xmaze = ['6285603256172'] // Ganti pakai nomor kalian
 
-global.mods = ['6288225750488'] // Opsional boleh ganti atau tidak 
-global.prems = ['6281283516246', '6288225750488'] // Opsional boleh ganti atau tidak 
+global.mods = ['6285603256172'] // Opsional boleh ganti atau tidak 
+global.prems = ['6285603256172', '6289501954399'] // Opsional boleh ganti atau tidak 
 
 
 
 /*=========== WATERMARK ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.wm = 'XMYULA' // Opsional boleh ganti atau tidak 
-global.author = 'XM4ZE' // Opsional boleh ganti atau tidak 
-global.stickpack = 'XMYULA' // Opsional boleh ganti atau tidak 
-global.stickauth = 'XM4ZE' // Opsional boleh ganti atau tidak 
+global.wm = 'ʙᴇᴛᴀ' // Opsional boleh ganti atau tidak 
+global.author = 'sᴇᴘᴘ' // Opsional boleh ganti atau tidak 
+global.stickpack = 'ʙᴇᴛᴀʙᴏᴛᴢ' // Opsional boleh ganti atau tidak 
+global.stickauth = 'sᴇᴘᴘ' // Opsional boleh ganti atau tidak 
 
 
 
 /*=========== TEXT & IMAGE ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.nameown = 'Maximus Store' // Ganti jadi nama kalian
-global.waown = 'wa.me/6281283516246' // ganti nomor tanpa menghilangkan wa.me/
-global.mail = 'maximusstoreindonesia@gmail.com' // boleh taruh email kalian
-global.fb = 'https://facebook.com/maximusstoreindonesia' // boleh taruh link fb kalian
-global.ig = 'https://instagram.com/maximusstore.id' // boleh taruh link ig kalian
-global.gcbot = 'https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M' // boleh taruh link group kalian
-global.qris = 'https://telegra.ph/file/f11ccd2ca8a5136aacfb3.jpg' // Wajib isi untuk pembayaran. isi dengan qris
+global.nameown = 'sᴇᴘᴘ ᴍᴅ' // Ganti jadi nama kalian
+global.waown = 'wa.me/6285603256172' // ganti nomor tanpa menghilangkan wa.me/
+global.mail = 'ᴇᴘᴇᴘʙᴏᴏʏᴀʜ1ᴀ@gmail.com' // boleh taruh email kalian
+global.fb = '-' // boleh taruh link fb kalian
+global.ig = '-' // boleh taruh link ig kalian
+global.gcbot = '-' // boleh taruh link group kalian
+global.qris = '-' // Wajib isi untuk pembayaran. isi dengan qris
 global.vn = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/KARA.mp3?raw=true' // Allmenu Voice
 
 
@@ -99,7 +99,7 @@ global.xmenus = 'https://raw.githubusercontent.com/XM4ZE/DATABASE/master/wallpap
 global.multiplier = 38
 global.wait = '*Starting Processing . . .*'
 global.eror = '*Failed to process . . .*'
-global.maxwarn = '2'
+global.maxwarn = '5'
 global.browser = [ "Ubuntu", "Chrome", "20.0.04" ]
 global.tutorjb = 'https://pomf2.lain.la/f/acdva5pa.jpg'
 global.pricelist = '*LIMIT* kamu habis. kamu bisa order akses premium\n\n*PREMIUM USER PRICE LIST*\n\n*3 Day premium*\n- Harga: Rp. 5.000 IDR\n- ID Pesanan: 3day\n\n*7 Day premium*\n- Harga: Rp. 10.000 IDR\n- ID Pesanan: 7day\n\n*30 Day premium*\n- Harga: Rp. 15.000 IDR\n- ID Pesanan: 30day\n\n*60 Day premium*\n- Harga: Rp. 30.000 IDR\n- ID Pesanan: 60day\n\n\n*Example:* .premium <ID Pembayaran>\n*Example:* .premium 30day'
@@ -325,121 +325,4 @@ global.hwaifu = [
     'https://i.pinimg.com/originals/c2/4f/75/c24f7518e17faba4bf8908a39be604a6.jpg',
     'https://i.pinimg.com/originals/7f/f5/46/7ff546b38e2969e578e697c44944b74f.jpg',
     'https://i.pinimg.com/originals/bc/9b/81/bc9b81c63b4844fd1a434d462bdfbd80.png',
-    'https://i.pinimg.com/originals/d5/a2/c9/d5a2c9cdfac835518e45b13cfc39819d.jpg',
-    'https://i.pinimg.com/originals/d7/02/54/d7025401aec66a4baf0fbcbc1054b499.jpg',
-    'https://i.pinimg.com/originals/95/bb/2e/95bb2e7c8b71754003d063f39feb232a.jpg',
-    'https://i.pinimg.com/originals/ee/ee/fd/eeeefda1774a2d5dced265c1a2d398d5.jpg',
-    'https://i.pinimg.com/originals/c3/1e/58/c31e58fae7f58af4d643c5a2facd49d7.jpg',
-    'https://i.pinimg.com/originals/1f/9c/1d/1f9c1d5f4d2de0b74e81f190ab4f1792.jpg',
-    'https://i.pinimg.com/originals/7a/3b/e6/7a3be6cf1595fe6764b5b18b46ca576d.jpg',
-    'https://i.pinimg.com/originals/51/08/53/5108536a4826d3354ac3fe9c3c867cb1.png',
-    'https://i.pinimg.com/originals/77/cc/bc/77ccbcd52758458669ed5eadf4437111.jpg',
-    'https://i.pinimg.com/originals/51/0f/8c/510f8cb8f28b8666d560f89e2006d4b1.jpg',
-    'https://i.pinimg.com/originals/6f/9a/86/6f9a86eb31e7c5bc34cf0d1d130574e0.png',
-    'https://i.pinimg.com/originals/79/92/ed/7992ed0c9b272654938ea186cc2e3f4a.jpg',
-    'https://i.pinimg.com/originals/39/2c/cb/392ccb1793c5a23783869994b1ec24b7.jpg',
-    'https://i.pinimg.com/originals/3b/2c/02/3b2c020665f835b0dfdd74b8cc9ca22d.jpg',
-    'https://i.pinimg.com/originals/ee/cf/7c/eecf7cc7f65e5d503399cc88f0e6ef6c.jpg',
-    'https://i.pinimg.com/originals/4e/9a/7a/4e9a7a196cea58427163313b7db6363e.jpg',
-    'https://i.pinimg.com/originals/8b/f8/46/8bf8468935d529c6383771097381196a.jpg',
-    'https://i.pinimg.com/originals/f3/5d/ce/f35dce5f6742bd4f30033fe7b51335cc.jpg',
-    'https://i.pinimg.com/originals/94/a6/69/94a6692d5bd9ba0bbd80ba1e4122b2f9.jpg',
-    'https://i.pinimg.com/originals/8f/55/04/8f55043dfd9d244f172077bdc0304c6a.png',
-    'https://i.pinimg.com/originals/89/ee/ab/89eeabd90e54b2951459f81f51e2c791.jpg',
-    'https://i.pinimg.com/originals/83/5a/2e/835a2e582d1f803f03ab3a3c3e58b694.jpg',
-    'https://i.pinimg.com/originals/25/5d/d9/255dd9dde5f44673092a4f15e917759f.jpg',
-    'https://i.pinimg.com/originals/e2/f1/0e/e2f10ead12c9a2d7c0bb29442604f43d.jpg',
-    'https://i.pinimg.com/originals/f5/2a/09/f52a09910f1cad9b5b01d79a620870dc.jpg',
-    'https://i.pinimg.com/originals/d9/e1/30/d9e1307a5fbbeb2a267562eab8abc063.jpg',
-    'https://i.pinimg.com/originals/6a/4d/11/6a4d11cb5bab1466cf1ccb8c6c4f9eb6.jpg',
-    'https://i.pinimg.com/originals/f3/b7/37/f3b7376c2a574b8619c197bce72d1f63.png',
-    'https://i.pinimg.com/originals/93/0a/5f/930a5fc6f8f6e64e87ac2cc30b8430ac.jpg',
-    'https://i.pinimg.com/originals/30/78/75/307875a9132c6e704eec94bc31fd4f71.jpg',
-    'https://i.pinimg.com/originals/12/fa/7d/12fa7df7ba74ac00d846d8d490f7c8a4.jpg',
-    'https://i.pinimg.com/originals/68/f6/f3/68f6f37335624f89cda17ab928f51138.jpg',
-    'https://i.pinimg.com/originals/de/f6/e7/def6e7ce26ad6a1096e8b1ef395a1904.jpg',
-    'https://i.pinimg.com/originals/cc/17/be/cc17be94cd520baa4722e0ca2329c2e9.jpg',
-    'https://i.pinimg.com/originals/b3/c5/d1/b3c5d1076a9a48c075c8a92987b03bf3.jpg',
-    'https://i.pinimg.com/originals/2c/e6/02/2ce6025d9d1736cf3e67db1fd2bdaf35.jpg',
-    'https://i.pinimg.com/originals/31/07/53/310753699042b254fdfa0472a2675158.jpg',
-    'https://i.pinimg.com/originals/6b/87/9c/6b879cc29b5df23941dab4f4aafabcbd.jpg',
-    'https://i.pinimg.com/originals/52/90/0b/52900bab0f969d9d68207f6ad8510882.jpg',
-    'https://i.pinimg.com/originals/25/7e/db/257edb1b91a127bcf91cc2ea6b29edaf.jpg',
-    'https://i.pinimg.com/originals/63/6b/7b/636b7bd0e1df03f0bf72c494cedd6f07.png',
-    'https://i.pinimg.com/originals/8d/ad/58/8dad58f3b258b3d7f2e913cb4561d99f.jpg',
-    'https://i.pinimg.com/originals/8d/04/9a/8d049a1e6951491b24ea4c364f2459bc.jpg',
-    'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
-    'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg'
-]
-
-// DI BAWAH INI JANGAN DI EDIT!!!
-/*============== EMOJI ==============*/
-global.rpg = {
-    emoticon(string) {
-        string = string.toLowerCase()
-        let emot = {
-            level: '📊',
-            limit: '🎫',
-            health: '❤️',
-            exp: '✨',
-            atm: '💳',
-            money: '💰',
-            bank: '🏦',
-            potion: '🥤',
-            diamond: '💎',
-            common: '📦',
-            uncommon: '🛍️',
-            mythic: '🎁',
-            legendary: '🗃️',
-            superior: '💼',
-            pet: '🔖',
-            trash: '🗑',
-            armor: '🥼',
-            sword: '⚔️',
-            pickaxe: '⛏️',
-            fishingrod: '🎣',
-            wood: '🪵',
-            rock: '🪨',
-            string: '🕸️',
-            horse: '🐴',
-            cat: '🐱',
-            dog: '🐶',
-            fox: '🦊',
-            robo: '🤖',
-            petfood: '🍖',
-            iron: '⛓️',
-            gold: '🪙',
-            emerald: '❇️',
-            upgrader: '🧰',
-            bibitanggur: '🌱',
-            bibitjeruk: '🌿',
-            bibitapel: '☘️',
-            bibitmangga: '🍀',
-            bibitpisang: '🌴',
-            anggur: '🍇',
-            jeruk: '🍊',
-            apel: '🍎',
-            mangga: '🥭',
-            pisang: '🍌',
-            botol: '🍾',
-            kardus: '📦',
-            kaleng: '🏮',
-            plastik: '📜',
-            gelas: '🧋',
-            chip: '♋',
-            umpan: '🪱',
-            skata: '🧩'
-        }
-        let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
-        if (!results.length) return ''
-        else return emot[results[0][0]]
-    }
-}
-
-//------ JANGAN DIUBAH -----
-let file = fileURLToPath(import.meta.url)
-watchFile(file, () => {
-    unwatchFile(file)
-    console.log(chalk.redBright("Update 'config.js'"))
-    import(`${file}?update=${Date.now()}`)
-})
+    'https://i.pinimg.com/originals/d5/a2/c9/d5a2c9cdfac835518e45b13cfc39819d
